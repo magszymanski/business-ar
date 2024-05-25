@@ -90,7 +90,7 @@ class Config:
     EMAIL_TEMPLATE_PATH = os.getenv("EMAIL_TEMPLATE_PATH")
     NOTIFY_API_URL = os.getenv("NOTIFY_API_URL") \
                     + os.getenv("NOTIFY_API_VERSION", "") \
-                    + "notify/"
+                    + "/notify/"
     REPORT_SVC_URL = os.getenv("REPORT_API_URL") \
                     + os.getenv("REPORT_API_VERSION", "") \
                     + "/reports"
