@@ -5,7 +5,7 @@
 - Ensure your business information is up to date. A summary will be shown in your Annual Report filing.
 
 ## Home Page
-Use the BC Services Card app on your phone to log in and file your Annual Report
+Use the BC Services Card app on your phone to log in and file your Annual Report.
 
 ## Terms of Use
 You will see the Terms of Use if you are a first time user of Service BC Connect Annual Report application or if the Terms of Use have been updated since an existing user last signed in. 
