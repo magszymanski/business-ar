@@ -9,6 +9,11 @@
 
 ## If this is your first time using the new Business Registry to file your annual report, the overview below will explain the steps required. 
 
+## Annual Report Reminder
+- You will receive an annual report reminder by email each business that you own or manage.
+- Click the link in the annual report reminder to file the annual report for your business
+- If you are not able to find your annual report reminder, please contact us 1-800-663-6102
+
 ## Home Page
 - Setup your <a href="https://id.gov.bc.ca/account/" target="_blank">BC Services Card (BCSC) Account</a> 
 - The BCSC digital ID is a secure and easy way to login and access the Business Registry. It protects your identity and ensures no one can impersonate you when accessing services online. 
